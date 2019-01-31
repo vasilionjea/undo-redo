@@ -1,5 +1,5 @@
 # undo-redo
-Experimenting with undo/redo in JavaScript.
+`experimental` A JavaScript implementation of undo-redo.
 
 ```javascript
 const history = new HistoryManager();
