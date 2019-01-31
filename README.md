@@ -9,3 +9,5 @@ this.history.add({
   redo: () => { /* redo something */ }
 });
 ```
+
+Live example: https://bit.ly/2TpJNVo
