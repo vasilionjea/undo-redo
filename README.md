@@ -4,7 +4,7 @@
 ```javascript
 const history = new HistoryManager();
 
-this.history.add({
+history.add({
   undo: () => { /* undo something */ },
   redo: () => { /* redo something */ }
 });
